@@ -8,7 +8,8 @@ The API takes localhost:8080/getEmp/{client_name} as a GET requet and returns a 
 "client_name": "FedEx",
 "total_sales": 130000
 }</br><br>
-
+Please use POSTMAN to make GET requests to the API.
+<br/><br/>
 Database Details:
 The MYSQL database has 3 tables: 
 1. employee 
