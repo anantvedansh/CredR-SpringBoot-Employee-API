@@ -14,7 +14,7 @@ Database Details:
 The MYSQL database has 3 tables: 
 1. employee 
 2. client 
-3. works_with. 
+3. works_with
 
 Run the following queries to make the three tables:
 <br/><br/>
@@ -40,7 +40,7 @@ CREATE TABLE client (
 client_id INT PRIMARY KEY, client_name VARCHAR(40)
 );
 <br><br/>
-Database URL: jdbc:h2:mem:animal_traits_db <br/>
+Database URL: jdbc:mysql://localhost:3306/employeedb <br/>
 <br/>
    Steps to run project: <br/>
    1.) Navigate to directory of the project. <br/>
